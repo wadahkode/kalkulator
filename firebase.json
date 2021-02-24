@@ -1,6 +1,17 @@
 {
   "hosting": {
     "public": "docs",
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "public",
+      "kalkulator.zip",
+      "gulfile.js",
+      "package.json",
+      "package-lock.json",
+      "README.md",
+      ".gitignore"
+    ]
   }
 }
